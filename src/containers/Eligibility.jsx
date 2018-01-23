@@ -14,7 +14,7 @@ const EligibilityPage = () => (
                 <li>Must be majoring in a Science, Technology, Engineering or Mathematics (STEM) field of study with a preference given to students pursing studies in areas of interest to the energy industry.</li>
             </ul>
 
-            <p><sup>*</sup>The program administrators reserve the right to define a first-year freshmen.  Generally, this will be viewed as students in their first year of    attendance at the University of Wyoming in the fall term immediately following high school graduation.  Or, students entering the University of Wyoming not immediately following high school graduation, but with fewer than 24 college credit hours earned after high school graduation.
+            <p><sup>*</sup><span style={{"font-size": "11px"}}>The program administrators reserve the right to define a first-year freshmen.  Generally, this will be viewed as students in their first year of    attendance at the University of Wyoming in the fall term immediately following high school graduation.  Or, students entering the University of Wyoming not immediately following high school graduation, but with fewer than 24 college credit hours earned after high school graduation.</span>
 </p>
         </section>
     </div>

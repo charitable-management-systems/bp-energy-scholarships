@@ -33,7 +33,7 @@ class Header extends React.Component {
                 <div className="menu">
                     <div className="menuIcon"><Menu onClick={this.toggleMenu} /></div>
                     <div className={this.menuClasses()}>
-                        <a className="menuItem" onClick={notOpen} style={{'cursor': 'pointer'}}>Apply</a>
+                        <a className="menuItem" onClick={notOpen} style={{'cursor': 'pointer'}}>apply</a>
                         {/* <a className="menuItem" href="http://apply.bpenergyscholarships.com">apply</a> */}
                         <a className="menuItem" onClick={this.toggleMenu}  href="#Instructions">instructions</a>
                         <a className="menuItem" onClick={this.toggleMenu}  href="#Eligibility">eligibility</a>

@@ -8,11 +8,11 @@ const Contact = () => (
         <h3>{name}</h3>
         <section>
             <p>Applications must be submitted online</p>
-            <p>All required forms and transcripts should be mailed to:</p>
+            <p>Transcripts should be mailed to:</p>
             <p><strong>BP America Production Company (Lower 48) Energy Scholarship Program<br />PO Box 648<br />Naperville, IL  60566</strong></p>
             <br />
             <p>For program questions or technical support:</p>
-            <p><strong>info@bpscholarships.com<br /><br />630-428-2412</strong></p>
+            <p><strong>info@bpenergyscholarships.com<br /><br />630-428-2412</strong></p>
         </section>
     </div>
 )

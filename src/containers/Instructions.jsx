@@ -16,8 +16,6 @@ const Instructions = () => (
                 <li>How do you intend to apply your education within the energy industry upon your college graduation?</li>
                 <li>Why should you be considered for a BP America Production Company (Lower 48) Energy Scholarship?</li>
             </ul>
-            <p>Applicants must also submit an official high school transcript.</p>
-            <p>Applicants must submit a copy of their Student Aid Report (SAR) including the Expected Family Contribution (EFC) from the information provided on their Free Application for Federal Student Aid (FAFSA).</p>
         </section>
     </div>
 )

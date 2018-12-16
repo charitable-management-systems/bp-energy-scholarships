@@ -8,7 +8,7 @@ import './index.scss'
 const TemplateWrapper = ({ children }) => (
   <div>
     <Helmet
-      title="BP Wamsutter Energy Scholarship Program"
+      title="BPX Energy Scholarship Program"
       meta={[
         { name: 'description', content: '' },
         { name: 'keywords', content: '' },
